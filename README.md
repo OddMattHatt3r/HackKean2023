@@ -1,4 +1,4 @@
-# Hack Kean 2023
+# HackKean 2023
 
 This project was developed by rodrigo1514 and I during the HackKean 2023 event. It is an implementation based on the BB84 Protocol, a quantum key distribution scheme.
 
